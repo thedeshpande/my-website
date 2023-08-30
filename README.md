@@ -3,7 +3,4 @@
 Hello check 123
 
 
-Now editing for the update-readme branch
-
-
-This is a brand new line for more changes in readme.
+Updates made remotely on the master branch
